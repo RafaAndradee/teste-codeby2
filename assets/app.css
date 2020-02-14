@@ -102,8 +102,15 @@ li > img {
     z-index: 10;
 }
 
-.titleGraph p{
+.titleGraph h1 {
+    font-size: 40px;
+    margin-top: 5vmax;
+    text-transform: lowercase;
+}
+
+.titleGraph p {
     font-weight: 600;
+    font-size: 21px;
 }
 
 .bar-graph .year {
